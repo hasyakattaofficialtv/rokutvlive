@@ -1,0 +1,44 @@
+{
+  "providerName": "Hasya Katta Official",
+  "lastUpdated": "2022-11-10T15:13:00+00:00",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "hkorokulivetv2022111601",
+      "title": "Hasya Katta Official Live TV",
+      "shortDescription": "Hasya Katta Official Live TV",
+      "tags": [
+        "hasya katta official live tv",
+        "hasya katta official tv",
+        "hasya katta official",
+        "hasya katta live tv",
+        "hasya katta tv",
+        "hasya katta",
+        "smit shetye live tv",
+        "smit shetye tv",
+        "smit shetye"
+      ],
+      "content": {
+        "dateAdded": "2022-11-10T15:13:00+00:00",
+        "duration": 0,
+        "adBreaks": [
+          "00:00:00"
+        ],
+        "trickPlayFiles": [],
+        "videos": [
+          {
+            "url": "http://rockstar.flashmediacast.com:1935/rockstar/livestream/playlist.m3u8",
+            "quality": "UHD",
+            "videoType": "HLS",
+            "bitrate": 0
+          }
+        ]
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://smitshetye.github.io/images/hkorokutv_hkorokulivetv2022111601_hasyakattaofficial.jpg",
+      "releaseDate": "2022-06-24"
+    }
+  ]
+}
