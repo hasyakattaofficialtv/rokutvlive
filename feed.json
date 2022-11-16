@@ -20,7 +20,7 @@
       ],
       "content": {
         "dateAdded": "2022-11-10T15:13:00+00:00",
-        "duration": 0,
+        "duration": 600,
         "adBreaks": [
           "00:00:00"
         ],
@@ -30,7 +30,7 @@
             "url": "http://rockstar.flashmediacast.com:1935/rockstar/livestream/playlist.m3u8",
             "quality": "UHD",
             "videoType": "HLS",
-            "bitrate": 0
+            "bitrate": 1
           }
         ]
       },
